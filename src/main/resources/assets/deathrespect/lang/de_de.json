@@ -1,0 +1,20 @@
+{
+  "deathrespect.midnightconfig.category.general": "Allgemein",
+  "deathrespect.midnightconfig.category.delay": "Delay",
+
+  "deathrespect.midnightconfig.enabled": "Mod aktivieren",
+
+  "deathrespect.midnightconfig.messageComment": "Nachricht, die angezeigt wird, wenn ein Spieler stirbt. '%player%' wird durch den Namen des verstorbenen Spielers ersetzt.",
+  "deathrespect.midnightconfig.messageTemplate": "Todesnachricht",
+
+  "deathrespect.midnightconfig.messageSuggestions": "Beispiele:\n\n• F\n• schade\n• RIP %player%\n• OOF\n• skill issue\n• L",
+
+  "deathrespect.midnightconfig.randomDelayComment": "Zufällige Verzögerung zwischen Minimum und Maximum verwenden.",
+  "deathrespect.midnightconfig.useRandomDelay": "Zufällige Verzögerung aktivieren",
+
+  "deathrespect.midnightconfig.delayMinComment": "Minimale Verzögerung in Sekunden, bevor die Nachricht gesendet wird.",
+  "deathrespect.midnightconfig.delayMinSec": "Minimale Verzögerung (Sekunden)",
+
+  "deathrespect.midnightconfig.delayMaxComment": "Maximale Verzögerung in Sekunden.",
+  "deathrespect.midnightconfig.delayMaxSec": "Maximale Verzögerung (Sekunden)"
+}
