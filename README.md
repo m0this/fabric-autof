@@ -1,4 +1,4 @@
-AutoF - Automatic Death Reactions
+# AutoF - Automatic Death Reactions
 
 A small, client-side Fabric mod that automatically sends a message when a player dies.
 
